@@ -21,6 +21,7 @@ import com.base.BaseClass;
 public class CustomerPOM extends BaseClass {
 	
 	public WebDriver driver;
+	//jenkins
 	
 	@FindBy(xpath="//i[@class='nav-icon far fa-user']")
 	private WebElement customerMenu;
